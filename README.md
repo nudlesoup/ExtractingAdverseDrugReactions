@@ -1,5 +1,5 @@
 # Twitter ADR Classification
-COMP90049 Knowledge Technologies, Semester 2 2017 Project 2 Assignment - ADR classification for twitter text
+ADR classification for twitter text
 
 ## Overview
 This project use Jupyter notebook to implement several machine learning classification technique to classify twitter text for ADR context.
